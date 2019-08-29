@@ -1,5 +1,5 @@
-# OECD-Happiness
-What leads to happiness? Regression on OECD Happiness Dataset.
+# OECD-Better-Life
+What leads to life satisfaction? Regression on OECD-Better Life Index Dataset.
 
 Work in progress. Documentation under way. 
 
